@@ -229,6 +229,7 @@ Looking for a production-ready solution? Our [Premium API](https://docs.vadoo.tv
 | [AI B-roll Generator](https://github.com/Anil-matcha/AI-B-roll) | Generate B-roll footage with AI |
 
 - [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) — compare AI video models by API, price & speed
+- [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) — free curriculum teaching creators how to monetize AI-generated video content
 
 ### Vadoo AI Tools
 
